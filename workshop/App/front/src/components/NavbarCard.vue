@@ -4,6 +4,7 @@
         <ul>
           <li><router-link to="/">Accueil</router-link></li>
           <li><router-link to="/Products">Notre Solution</router-link></li>
+          <li><router-link to="/Signaler">Signaler</router-link></li>
           <li><router-link to="/Contact">Nous contacter</router-link></li>
         </ul>
       </nav>

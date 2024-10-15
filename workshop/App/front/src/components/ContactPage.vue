@@ -4,7 +4,7 @@
     <div class="contact-page">
       <div class="contact-info">
         <h1>Nous Contacter</h1>
-        <p>Ce site a été créé dans le cadre d'un projet MSPR pour l'école EPSI.</p>
+        <p>Ce site a été créé dans le cadre d'un projet Workshop à l'école EPSI.</p>
         <p>N'hésitez pas à nous contacter pour toute question, suggestion ou demande d'information :</p>
         <p>Email : webprotectu@gmail.com</p>
       </div>

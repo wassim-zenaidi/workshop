@@ -19,7 +19,7 @@ header {
 /* Style pour le corps du site */
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Police plus légère */
-  background-color: #262525; /* Blanc cassé */
+  background-color: white; /* Blanc cassé */
   color: #fff;
   font-size: 16px;
   line-height: 1.6;

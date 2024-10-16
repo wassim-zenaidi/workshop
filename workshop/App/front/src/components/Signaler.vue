@@ -1,7 +1,10 @@
 <template>
   <div>
     <NavbarCard></NavbarCard>
-    
+
+    <div class="title">
+      <h1>Dites nous tout !</h1>
+    </div>
     <!-- Formulaire pour soumettre les données à la base SQL -->
     <div class="form-container">
       <form @submit.prevent="submitForm">
@@ -155,6 +158,12 @@ export default {
 </script>
 
 <style scoped>
+
+.title{
+  color: #2c3e50;
+  margin: 35px;
+}
+
 /* Styles basiques pour le formulaire */
 .form-container {
   max-width: 300px; /* Réduction de la largeur de la boîte du formulaire */
@@ -162,7 +171,7 @@ export default {
   padding: 15px; /* Réduction de l'espace intérieur */
   border: 1px solid #ddd;
   border-radius: 10px;
-  background-color: #6050dc; /* Couleur de fond plus claire pour un meilleur contraste */
+  background-color: #004080; /* Couleur de fond plus claire pour un meilleur contraste */
 }
 
 form div {

@@ -6,7 +6,7 @@
         <h1>Nous Contacter</h1>
         <p>Ce site a été créé dans le cadre d'un projet Workshop à l'école EPSI.</p>
         <p>N'hésitez pas à nous contacter pour toute question, suggestion ou demande d'information :</p>
-        <p>Email : webprotectu@gmail.com</p>
+        <p>Email : weprotectu@gmail.com</p>
       </div>
     </div>
   </div>
@@ -32,6 +32,7 @@ export default {
 
 .contact-info {
   text-align: center;
+  color: #181818;
 }
 
 .contact-info h1 {

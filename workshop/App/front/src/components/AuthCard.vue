@@ -5,7 +5,7 @@
       <button @click="logout" class="auth-button logout">Logout 👥</button>
     </div>
     <div v-else>
-      <button @click="login" class="auth-button login">Espace client 👥</button>
+      <button @click="login" class="auth-button login">S'abonner</button>
     </div>
   </div>
 </template>

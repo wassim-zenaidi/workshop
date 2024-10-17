@@ -75,6 +75,13 @@
           <p>Partager trop d'informations personnelles peut mener à des vols d'identité, du harcèlement et à des atteintes à la vie privée.</p>
         </div>
       </div>
+      <div class="faq-item">
+        <button class="faq-question">Mon compte a été piraté, que faire ?</button>
+        <div class="faq-answer">
+          <p>Si vous ne pouvez plus vous connecter à votre compte : contactez le service concerné pour signaler votre piratage et demandez la réinitialisation de votre mot de passe.</p>
+        </div>
+      </div>
+
     </div>
 
     <section class="newsletter">
